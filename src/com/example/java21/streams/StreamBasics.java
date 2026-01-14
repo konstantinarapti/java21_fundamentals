@@ -1,4 +1,4 @@
-package src.main.java.com.example.java21.streams;
+package src.com.example.java21.streams;
 
 import java.util.List;
 

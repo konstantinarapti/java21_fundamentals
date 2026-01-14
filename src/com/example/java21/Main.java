@@ -1,4 +1,4 @@
-package src.main.java.com.example.java21;
+package src.com.example.java21;
 
 public class Main {
 
