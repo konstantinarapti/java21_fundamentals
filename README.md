@@ -1,1 +1,1 @@
-# java21_fundamentas
+# java21_fundamentals
